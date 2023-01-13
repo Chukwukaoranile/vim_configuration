@@ -1,1 +1,1 @@
-This repository contains file(s) for vim configuration information
+This repository contains file(s) with information about vim configuration. This enables smart coding
